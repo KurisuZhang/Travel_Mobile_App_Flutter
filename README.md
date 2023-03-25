@@ -6,7 +6,7 @@
 
 ![share](https://raw.githubusercontent.com/KurisuZhang/Travel_Mobile_App_Flutter/main/resultShow/travel.gif)
 
-<img src="https://raw.githubusercontent.com/KurisuZhang/Travel_Mobile_App_Flutter/main/resultShow/my.jpg"  width="" height="400">
+<img src="https://raw.githubusercontent.com/KurisuZhang/Travel_Mobile_App_Flutter/main/resultShow/my.jpg"  width="200" height="400">
 
 
 

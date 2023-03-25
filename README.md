@@ -2,9 +2,11 @@
 
 ![Home Page](https://raw.githubusercontent.com/KurisuZhang/Travel_Mobile_App_Flutter/main/resultShow/homepage.gif)
 
-- [cached_network_image ^3.0.0](https://pub.flutter-io.cn/packages/cached_network_image)
-- [dio ^4.0.0](https://pub.flutter-io.cn/packages/dio)
-- [flutter_card_swipper ^0.4.0](https://pub.flutter-io.cn/packages/flutter_card_swipper)
+![search](https://raw.githubusercontent.com/KurisuZhang/Travel_Mobile_App_Flutter/main/resultShow/search.gif)
+
+![share](https://raw.githubusercontent.com/KurisuZhang/Travel_Mobile_App_Flutter/main/resultShow/travel.gif)
+
+![my](https://raw.githubusercontent.com/KurisuZhang/Travel_Mobile_App_Flutter/main/resultShow/my.jpg)
 
 
 # Package & Plug

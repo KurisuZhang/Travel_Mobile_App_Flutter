@@ -1,6 +1,6 @@
 # Interface
 
-[Home Page](./resultShow/homepage.gif)  
+![Home Page](./resultShow/homepage.gif)  
 - [cached_network_image ^3.0.0](https://pub.flutter-io.cn/packages/cached_network_image)
 - [dio ^4.0.0](https://pub.flutter-io.cn/packages/dio)
 - [flutter_card_swipper ^0.4.0](https://pub.flutter-io.cn/packages/flutter_card_swipper)

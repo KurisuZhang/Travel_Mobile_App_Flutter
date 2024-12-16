@@ -9,16 +9,3 @@
 - [webview_flutter ^2.0.8](https://pub.flutter-io.cn/packages/webview_flutter)
 - [umeng_common_sdk ^1.1.3](https://pub.flutter-io.cn/packages/umeng_common_sdk)
 
-# Interface
-
-![Home Page](https://raw.githubusercontent.com/KurisuZhang/Travel_Mobile_App_Flutter/main/resultShow/homepage.gif)
-
-![search](https://raw.githubusercontent.com/KurisuZhang/Travel_Mobile_App_Flutter/main/resultShow/search.gif)
-
-![share](https://raw.githubusercontent.com/KurisuZhang/Travel_Mobile_App_Flutter/main/resultShow/travel.gif)
-
-<img src="https://raw.githubusercontent.com/KurisuZhang/Travel_Mobile_App_Flutter/main/resultShow/my.jpg"  width="300" height="600">
-
-
-
-
